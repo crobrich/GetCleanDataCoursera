@@ -1,4 +1,4 @@
-# GetCleanDataCoursera
+# GetCleanDataCoursera 
 This repo is for the class project for the GetCleanData course on Coursera.
 
 The data is from accelerometers from the Samsung Galaxy S smartphone. A full description is available at the site where the data was obtained:
